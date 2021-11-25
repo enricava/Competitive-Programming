@@ -10,6 +10,4 @@ These solutions were typed very quickly and with competitive programming in mind
 
 
 ## Authors
-Enrique Cavanillas Puga
-
-Ángel Benítez Gómez
+Enrique Cavanillas Puga - Ángel Benítez Gómez
